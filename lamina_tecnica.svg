@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f8fafc"/>
+  <text x="60" y="65" font-family="Arial" font-size="34" font-weight="700" fill="#1f2937">Lámina técnica — ganchos estándar E.060</text>
+  <text x="60" y="100" font-family="Arial" font-size="18" fill="#475569">Esquema educativo. Dimensiones y resultados se consultan desde el Excel.</text>
+  <g stroke="#1f4e78" stroke-width="18" fill="none" stroke-linecap="round">
+    <path d="M120 250 H380 Q460 250 460 330 V480"/>
+    <path d="M650 250 H900 Q1010 250 1010 360 Q1010 470 900 470 H820"/>
+  </g>
+  <g font-family="Arial" fill="#1f2937">
+    <text x="120" y="190" font-size="27" font-weight="700">Gancho longitudinal 90°</text>
+    <text x="120" y="540" font-size="22">Consulte la extensión en la fuente Excel</text>
+    <text x="650" y="190" font-size="27" font-weight="700">Gancho longitudinal 180°</text>
+    <text x="650" y="540" font-size="22">Consulte la extensión en la fuente Excel</text>
+    <text x="60" y="625" font-size="20" font-weight="700">Diámetro interior mínimo de doblado</text>
+    <text x="60" y="660" font-size="18">Seleccione la barra y el tipo de gancho para ver la dimensión, fórmula y trazabilidad.</text>
+    <text x="60" y="695" font-size="16" fill="#7f1d1d">Referencias: E.060 7.1, 7.2, Tabla 7.1 y 12.5. Verificar condiciones particulares del proyecto.</text>
+  </g>
+</svg>
